@@ -1,6 +1,6 @@
 # Power_bi_phonepe_project
 
-![Phonepe_logo](https://tse3.mm.bing.net/th/id/OIP.Tn97d813AXqPGSRaIV7dAwHaEK?pid=Api&P=0&h=220)
+![Phonepe_logo](https://img-cdn.publive.online/fit-in/1200x675/entrackr/media/media_files/2025/06/06/5ror6sAJIrteOyjzkoMn.jpg)
 
 
 <H1>Overview</H1>
