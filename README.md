@@ -48,8 +48,21 @@ Data Consolidation: The service-specific transaction tables (Recharge_Bills, Mon
 The transformed and cleaned tables (Users Dimension, Date Dimension, and Master Transactions Fact) are loaded into the Power BI Data Model.
 
 Relationships are established between the tables to create a robust Star Schema (e.g., linking the Master Transactions table to the All_Users table using User_ID, and to the Date table using the Date column).
+<H1>Loan</H1>
 
-"C:\Users\ASUS\OneDrive\Pictures\Loan.png"
+<img width="1050" height="745" alt="Loan" src="https://github.com/user-attachments/assets/fc821dcc-c3e6-4f62-89b7-e19869c2014d" />
+
+<H1>Insurance</H1>
+
+<img width="1329" height="745" alt="Insurance" src="https://github.com/user-attachments/assets/17ab97be-5fe2-409e-8d8c-e6e8276430e6" />
+
+<H1>Money Transfer</H1>
+
+<img width="1045" height="745" alt="Money_Tranfer" src="https://github.com/user-attachments/assets/e0974fc9-393d-4bf3-a5fa-cf0626665cfa" />
+
+<H1>Recharge Bills</H1>
+
+<img width="1048" height="741" alt="Recharge_Bills" src="https://github.com/user-attachments/assets/4d45056e-bd54-46e2-8251-007e64b6e7bb" />
 
 <H1>Conclusion</H1>
 
