@@ -20,3 +20,31 @@ This project demonstrates a comprehensive analysis of hypothetical PhonePe-like 
 <H1>ETL Process (Extract, Transform, Load)</H1>
 
 The Extract, Transform, and Load (ETL) process is performed primarily within Power Query Editor (M language) in Power BI Desktop to clean, consolidate, and shape the data before it is loaded into the data model.
+
+1. Extraction
+
+All seven data sources (All_Users, All_Transactions, and the five service-specific transaction files) are imported into Power Query Editor.
+
+2. Transformation (Power Query)
+
+Data Consolidation: The service-specific transaction tables (Recharge_Bills, Money_Transfer, Loans, Insurance) are systematically Appended (union operation) into a single, master transaction fact table. This ensures all transaction data is unified for analysis.
+
+Data Type Cleaning:
+
+- Date columns are converted to the proper Date data type.
+
+- Amount columns are converted to Currency or Decimal Number data type.
+
+- Text columns are checked for consistency and trimmed of unnecessary whitespace.
+
+- Standardization: Custom columns are added to the consolidated transaction table to ensure consistent terminology across services (e.g., standardizing 'Service Type' columns).
+
+- Error and Status Handling: The Payment_Status and Reason columns are inspected to identify transaction failure rates, and measures are built to filter for successful vs. failed transactions.
+
+- Date Dimension: A dedicated Date dimension table is generated (or derived from the transaction dates) to support robust time intelligence analysis.
+
+3. Loading
+   
+The transformed and cleaned tables (Users Dimension, Date Dimension, and Master Transactions Fact) are loaded into the Power BI Data Model.
+
+Relationships are established between the tables to create a robust Star Schema (e.g., linking the Master Transactions table to the All_Users table using User_ID, and to the Date table using the Date column).
