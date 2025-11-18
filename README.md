@@ -4,7 +4,7 @@
 This project demonstrates a comprehensive analysis of hypothetical PhonePe-like transactional and user data using Microsoft Power BI. The goal is to transform raw, disparate data from various services (Recharge, Money Transfer, Loans, Insurance) into a cohesive and interactive business intelligence dashboard. This dashboard provides key performance indicators (KPIs) and actionable insights into user behavior, service performance, and financial trends.
 
 <H1>Objectives</H1>
-- The primary objectives of this Power BI project are to:
+ - The primary objectives of this Power BI project are to:
 
 - Develop a Robust Data Model: Create a scalable and efficient Star Schema within Power BI to link user demographics with various transaction types.
 
