@@ -2,6 +2,8 @@
 
 ![Phonepe_logo](https://img-cdn.publive.online/fit-in/1200x675/entrackr/media/media_files/2025/06/06/5ror6sAJIrteOyjzkoMn.jpg)
 
+Tool Used :-
+![Power_Bi](https://tse3.mm.bing.net/th/id/OIP.Oxo-u9GMK3zbEM5h-FiVnQHaEK?pid=Api&P=0&h=220)
 
 <H1>Overview</H1>
 This project demonstrates a comprehensive analysis of hypothetical PhonePe-like transactional and user data using Microsoft Power BI. The goal is to transform raw, disparate data from various services (Recharge, Money Transfer, Loans, Insurance) into a cohesive and interactive business intelligence dashboard. This dashboard provides key performance indicators (KPIs) and actionable insights into user behavior, service performance, and financial trends.
