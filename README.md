@@ -48,3 +48,9 @@ Data Consolidation: The service-specific transaction tables (Recharge_Bills, Mon
 The transformed and cleaned tables (Users Dimension, Date Dimension, and Master Transactions Fact) are loaded into the Power BI Data Model.
 
 Relationships are established between the tables to create a robust Star Schema (e.g., linking the Master Transactions table to the All_Users table using User_ID, and to the Date table using the Date column).
+
+"C:\Users\ASUS\OneDrive\Pictures\Loan.png"
+
+<H1>Conclusion</H1>
+
+This Power BI PhonePe project successfully transforms complex transaction data into a clear, interactive, and actionable dashboard. The primary achievement is the identification of key high-growth segments and regional performance drivers. Moving forward, the focus will shift from descriptive analysis to predictive and prescriptive insights through advanced features like real-time data feeds and forecasting models. This evolution ensures the dashboard remains a strategic asset for data-driven decision-making in expanding PhonePe's market penetration and optimizing product offerings.
