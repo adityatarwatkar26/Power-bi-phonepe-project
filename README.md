@@ -16,3 +16,7 @@ This project demonstrates a comprehensive analysis of hypothetical PhonePe-like 
 - Visualize User Behavior: Gain insights into how different user segments (e.g., age groups, joining date cohorts) interact with the application.
 
 - Enable Data-Driven Decisions: Provide an interactive dashboard that allows stakeholders to quickly identify trends, bottlenecks, and areas for strategic focus.
+
+<H1>ETL Process (Extract, Transform, Load)</H1>
+
+The Extract, Transform, and Load (ETL) process is performed primarily within Power Query Editor (M language) in Power BI Desktop to clean, consolidate, and shape the data before it is loaded into the data model.
