@@ -1,6 +1,6 @@
 # Power_bi_phonepe_project
 
-![Phonepe_logo](https://github.com/user-attachments/assets/c676e9af-a670-4173-a12e-568fb0df3d22)
+![Phonepe_logo](https://tse3.mm.bing.net/th/id/OIP.Tn97d813AXqPGSRaIV7dAwHaEK?pid=Api&P=0&h=220)
 
 
 <H1>Overview</H1>
