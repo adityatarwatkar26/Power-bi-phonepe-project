@@ -48,19 +48,36 @@ Data Consolidation: The service-specific transaction tables (Recharge_Bills, Mon
 The transformed and cleaned tables (Users Dimension, Date Dimension, and Master Transactions Fact) are loaded into the Power BI Data Model.
 
 Relationships are established between the tables to create a robust Star Schema (e.g., linking the Master Transactions table to the All_Users table using User_ID, and to the Date table using the Date column).
-<H1>Loan</H1>
 
+<H1>📌 Loans</H1>
+
+- Distribution of loan types and disbursed amounts.
+- Monthly trends in loan issuance and repayment behavior.
+- User demographics influencing loan activity.
+ 
 <img width="1050" height="745" alt="Loan" src="https://github.com/user-attachments/assets/fc821dcc-c3e6-4f62-89b7-e19869c2014d" />
 
-<H1>Insurance</H1>
+<H1>📌 Insurance</H1>
+
+- Policy categories with the highest demand.
+- Claims ratio, policy count, and growth patterns.
+- User segmentation based on policy preferences.
 
 <img width="1329" height="745" alt="Insurance" src="https://github.com/user-attachments/assets/17ab97be-5fe2-409e-8d8c-e6e8276430e6" />
 
-<H1>Money Transfer</H1>
+<H1>📌 Money Transfer</H1>
+
+- Total transfer volume and value across UPI transactions.
+- User engagement patterns and transfer trends over time.
+- Performance comparison of peer-to-peer vs merchant transfers.
 
 <img width="1045" height="745" alt="Money_Tranfer" src="https://github.com/user-attachments/assets/e0974fc9-393d-4bf3-a5fa-cf0626665cfa" />
 
-<H1>Recharge Bills</H1>
+<H1>📌 Recharge & Bills</H1>
+
+- High-frequency recharge categories and bill payment patterns.
+- Peak transaction periods and customer usage trends.
+- Success rates and transaction volume comparison across services.
 
 <img width="1048" height="741" alt="Recharge_Bills" src="https://github.com/user-attachments/assets/4d45056e-bd54-46e2-8251-007e64b6e7bb" />
 
