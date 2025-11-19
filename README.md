@@ -57,21 +57,17 @@ Relationships are established between the tables to create a robust Star Schema 
 
 <H1>📌 Loans</H1>
 
-- Distribution of loan types and disbursed amounts.
-- Monthly trends in loan issuance and repayment behavior.
-- User demographics influencing loan activity.
- 
-<img width="1204" height="741" alt="Loan" src="https://github.com/user-attachments/assets/580f32b9-55a9-458d-b8d4-67a96eee5f0a" />
-
-
-<H1>📌 Insurance</H1>
-
 <H3>🚀 Key Loan Portfolio Highlights</H3>
 
 - Total Portfolio Value: The portfolio holds ₹2.53 billion in loans.
 - Success Rate: Payment status is overwhelmingly Successful (accounting for ₹2.43bn), indicating high loan recovery efficiency.
 - Volume Stability: The number of loans disbursed monthly is stable (consistently around 4K).
 - Value Volatility: Loan amount disbursed shows significant monthly fluctuation, with a peak in July (over ₹220M).
+ 
+<img width="1204" height="741" alt="Loan" src="https://github.com/user-attachments/assets/580f32b9-55a9-458d-b8d4-67a96eee5f0a" />
+
+
+<H1>📌 Insurance</H1>
 
 <img width="1452" height="741" alt="Insurance" src="https://github.com/user-attachments/assets/5b47bb71-7b4c-4efc-b693-c895b5cb92a4" />
 
