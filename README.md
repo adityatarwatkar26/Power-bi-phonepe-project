@@ -61,7 +61,8 @@ Relationships are established between the tables to create a robust Star Schema 
 - Monthly trends in loan issuance and repayment behavior.
 - User demographics influencing loan activity.
  
-<img width="1050" height="745" alt="Loan" src="https://github.com/user-attachments/assets/fc821dcc-c3e6-4f62-89b7-e19869c2014d" />
+<img width="1204" height="741" alt="Loan" src="https://github.com/user-attachments/assets/580f32b9-55a9-458d-b8d4-67a96eee5f0a" />
+
 
 <H1>📌 Insurance</H1>
 
@@ -69,7 +70,8 @@ Relationships are established between the tables to create a robust Star Schema 
 - Claims ratio, policy count, and growth patterns.
 - User segmentation based on policy preferences.
 
-<img width="1329" height="745" alt="Insurance" src="https://github.com/user-attachments/assets/17ab97be-5fe2-409e-8d8c-e6e8276430e6" />
+<img width="1452" height="741" alt="Insurance" src="https://github.com/user-attachments/assets/5b47bb71-7b4c-4efc-b693-c895b5cb92a4" />
+
 
 <H1>📌 Money Transfer</H1>
 
@@ -77,7 +79,8 @@ Relationships are established between the tables to create a robust Star Schema 
 - User engagement patterns and transfer trends over time.
 - Performance comparison of peer-to-peer vs merchant transfers.
 
-<img width="1045" height="745" alt="Money_Tranfer" src="https://github.com/user-attachments/assets/e0974fc9-393d-4bf3-a5fa-cf0626665cfa" />
+<img width="1177" height="754" alt="Money Transfer" src="https://github.com/user-attachments/assets/a68c7b10-9ffc-45d6-a4aa-43b24ebde0d3" />
+
 
 <H1>📌 Recharge & Bills</H1>
 
@@ -85,7 +88,8 @@ Relationships are established between the tables to create a robust Star Schema 
 - Peak transaction periods and customer usage trends.
 - Success rates and transaction volume comparison across services.
 
-<img width="1048" height="741" alt="Recharge_Bills" src="https://github.com/user-attachments/assets/4d45056e-bd54-46e2-8251-007e64b6e7bb" />
+<img width="1109" height="740" alt="Recharge Bills" src="https://github.com/user-attachments/assets/9c4e5735-1572-40de-9bb9-9bbba961002f" />
+
 
 <H1>Conclusion</H1>
 
