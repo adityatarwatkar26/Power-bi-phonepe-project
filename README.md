@@ -66,9 +66,12 @@ Relationships are established between the tables to create a robust Star Schema 
 
 <H1>📌 Insurance</H1>
 
-- Policy categories with the highest demand.
-- Claims ratio, policy count, and growth patterns.
-- User segmentation based on policy preferences.
+<H3>🚀 Key Loan Portfolio Highlights</H3>
+
+- Total Portfolio Value: The portfolio holds ₹2.53 billion in loans.
+- Success Rate: Payment status is overwhelmingly Successful (accounting for ₹2.43bn), indicating high loan recovery efficiency.
+- Volume Stability: The number of loans disbursed monthly is stable (consistently around 4K).
+- Value Volatility: Loan amount disbursed shows significant monthly fluctuation, with a peak in July (over ₹220M).
 
 <img width="1452" height="741" alt="Insurance" src="https://github.com/user-attachments/assets/5b47bb71-7b4c-4efc-b693-c895b5cb92a4" />
 
