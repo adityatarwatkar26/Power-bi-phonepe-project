@@ -69,23 +69,35 @@ Relationships are established between the tables to create a robust Star Schema 
 
 <H1>📌 Insurance</H1>
 
+<H3>🚀 Key Insurance Portfolio Highlights</H3>
+
+- Total Premium: Collected ₹512.92 million in total premium.
+- Balanced Mix: Premium distribution is almost perfectly balanced across Bike, Term Life, Car, and Health insurance types.
+- Volatile Sales: Monthly premium collected is highly volatile, peaking in May and July, and showing significant dips in February and September.
+
 <img width="1452" height="741" alt="Insurance" src="https://github.com/user-attachments/assets/5b47bb71-7b4c-4efc-b693-c895b5cb92a4" />
 
 
 <H1>📌 Money Transfer</H1>
 
-- Total transfer volume and value across UPI transactions.
-- User engagement patterns and transfer trends over time.
-- Performance comparison of peer-to-peer vs merchant transfers.
+<H3>🚀 Key Money Transfer Highlights</H3>
+
+- Total Volume (Value): The total value transferred is ₹378.19 million.
+- Success Rate: Money transfers show an exceptionally high success rate, with ₹362.95M successful and only ₹15.24M failed.
+- Transaction Count Stability: The Count of Payment_Status by Month is highly stable throughout the year, consistently hovering around 12,000 transactions per month.
+- Value Fluctuation: The Sum of Amount by Month is volatile, showing high-value spikes in January and May, and a significant dip in February and April.
 
 <img width="1177" height="754" alt="Money Transfer" src="https://github.com/user-attachments/assets/a68c7b10-9ffc-45d6-a4aa-43b24ebde0d3" />
 
 
 <H1>📌 Recharge & Bills</H1>
 
-- High-frequency recharge categories and bill payment patterns.
-- Peak transaction periods and customer usage trends.
-- Success rates and transaction volume comparison across services.
+<H3>🚀 Key Recharge & Bills Highlights</H3>
+
+- Total Value: The total Sum of Amount processed for recharges and bills is ₹50.69 million.
+- Success Rate: Payment status is highly successful, with ₹48.71 million successful and only ₹1.99 million failed.
+- Monthly Fluctuation: The Sum of Amount by Month shows significant monthly volatility, with the highest peak occurring in October (over ₹4.35M) and the lowest points in March and December.
+- Transaction Count: The service has processed 50.00 thousand transactions, with the number of unique users at 39.89 thousand.
 
 <img width="1109" height="740" alt="Recharge Bills" src="https://github.com/user-attachments/assets/9c4e5735-1572-40de-9bb9-9bbba961002f" />
 
